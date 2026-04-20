@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bingi Amulya</h1>
 <h3 align="center">I'm an aspiring software developer passionate about learning and exploring new technologies from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amulya-bingi" alt="amulya-bingi" /></a> </p>
 
 - 📫 How to reach me **bingiamulya131@gmail.com**
 
